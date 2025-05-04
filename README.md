@@ -2,6 +2,13 @@
 
 Este projeto automatiza o processamento de arquivos Excel (`.xlsx`) armazenados em `src/data/raw`, aplica transformações de dados usando **Pandas** e gera um arquivo consolidado em `src/data/ready/clean.xlsx`.
 
+### Data Raw 
+(Colocado apenas por que é um projeto para portifólio)
+![image](https://github.com/user-attachments/assets/84859a86-c4c5-46fb-8232-f9f72af9f818)
+
+### Data Ready (Pós ETL)
+![image](https://github.com/user-attachments/assets/c2e5db34-bd91-4101-bb57-b7d97d556759)
+
 ---
 
 ## 🚀 Funcionalidades
