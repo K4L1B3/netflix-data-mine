@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "learn-python"
+version = "0.1.0"
+description = ""
+authors = ["K4L1B3 <luizhlimagomes28@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pandas = "^2.2.3"
+openpyxl = "^3.1.5"
+xlsxwriter = "^3.2.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
