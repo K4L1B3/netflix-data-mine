@@ -4,7 +4,8 @@ Este projeto automatiza o processamento de arquivos Excel (`.xlsx`) armazenados 
 
 ### Data Raw 
 (Colocado apenas por que é um projeto para portifólio)
-</br>
+<br/>
+<br/>
 ![image](https://github.com/user-attachments/assets/84859a86-c4c5-46fb-8232-f9f72af9f818)
 
 ### Data Ready (Pós ETL)
